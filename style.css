@@ -104,3 +104,13 @@ ol li{
 
     justify-content: space-between;
 }
+
+
+
+a:hover{
+    color: gray;
+}
+
+i:hover{
+    color: slateblue;
+}
