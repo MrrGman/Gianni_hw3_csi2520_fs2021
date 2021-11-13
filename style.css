@@ -114,3 +114,15 @@ a:hover{
 i:hover{
     color: slateblue;
 }
+
+.comment
+{
+    border-bottom: 2px solid cyan;
+}
+
+input
+{
+    width: 250px;
+    font-size: 14px;
+
+}
